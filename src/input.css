@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+#textTop{
+    font-family: "Playfair Display", serif;
+}
+
+#h3{
+    font-family: "Playfair Display", serif;
+}
+
+#h2{
+    font-family: "Playfair Display", serif;
+}
+
