@@ -7,4 +7,3 @@
 Tecnologias Utilizadas :
  - HTML
  - Css
- - JavaScript
